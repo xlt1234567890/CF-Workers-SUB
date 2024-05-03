@@ -23,11 +23,11 @@ Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)
 ### 4. 添加你的节点和订阅链接：
    - 添加 `LINK` 变量，参数添加你的自建节点链接和机场订阅链接，确保每行一个链接，例如：
    ```
-      https://sub.xf.free.hr/auto
-      https://hy2sub.pages.dev
-      https://auto.classelivre.eu.org/CMLiu
-      https://moistr.freenods.sbs/mianfei
-      https://3k.fxxk.dedyn.io/sub
+https://sub.xf.free.hr/auto
+https://hy2sub.pages.dev
+https://auto.classelivre.eu.org/CMLiu
+https://moistr.freenods.sbs/mianfei
+https://3k.fxxk.dedyn.io/sub
  ```
 
 
